@@ -52,22 +52,22 @@ editkaro-portfolio/
 ## 📸 Screenshots
 
 **Screenshot 01**
-![Screenshot 01](images/Screenshot01.png)
+![Screenshot 01](images/Screenshot01.jpg)
 
 **Screenshot 02**
-![Screenshot 02](images/Screenshot02.png)
+![Screenshot 02](images/Screenshot02.jpg)
 
 **Screenshot 03**
-![Screenshot 03](images/Screenshot03.png)
+![Screenshot 03](images/Screenshot03.jpg)
 
 **Screenshot 04**
-![Screenshot 04](images/Screenshot04.png)
+![Screenshot 04](images/Screenshot04.jpg)
 
 **Screenshot 05**
-![Screenshot 05](images/Screenshot05.png)
+![Screenshot 05](images/Screenshot05.jpg)
 
 **Screenshot 06**
-![Screenshot 06](images/Screenshot06.png)
+![Screenshot 06](images/Screenshot06.jpg)
 
 **Screenshot 07**
-![Screenshot 07](images/Screenshot07.png)
+![Screenshot 07](images/Screenshot07.jpg)
