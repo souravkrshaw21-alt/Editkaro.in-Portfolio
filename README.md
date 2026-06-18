@@ -47,3 +47,27 @@ editkaro-portfolio/
     ├── documentary1.mp4# Portfolio asset
     ├── colorgrading1.mp4 # Portfolio asset
     └── anime1.mp4      # Portfolio asset
+```
+
+## 📸 Screenshots
+
+**Screenshot 01**
+![Screenshot 01](images/Screenshot01.png)
+
+**Screenshot 02**
+![Screenshot 02](images/Screenshot02.png)
+
+**Screenshot 03**
+![Screenshot 03](images/Screenshot03.png)
+
+**Screenshot 04**
+![Screenshot 04](images/Screenshot04.png)
+
+**Screenshot 05**
+![Screenshot 05](images/Screenshot05.png)
+
+**Screenshot 06**
+![Screenshot 06](images/Screenshot06.png)
+
+**Screenshot 07**
+![Screenshot 07](images/Screenshot07.png)
